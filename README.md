@@ -6,3 +6,5 @@ Notice - there's no code here. The app is proprietary. This is simply a placehol
 ## Download
 
 You can find the app [here](https://apps.apple.com/fi/app/mine-control-for-minecraft/id559788653). You need an iPhone to use it.
+
+![Mine Control](mine-control.png)
